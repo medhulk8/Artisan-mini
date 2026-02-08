@@ -4,6 +4,8 @@
 
   **🌐 [Live Demo](https://artisan-mini.vercel.app/)**
 
+  *Empowering artisans with AI-driven marketing strategies*
+
   [![React](https://img.shields.io/badge/React-18.3-61dafb?logo=react&logoColor=white)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-5.4-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
