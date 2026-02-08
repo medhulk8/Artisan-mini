@@ -7,10 +7,10 @@
   "homepage": "https://artisan-mini.vercel.app",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/synthborne/artisan-mini.git"
+    "url": "git+https://github.com/medhulk8/Artisan-mini.git"
   },
   "bugs": {
-    "url": "https://github.com/synthborne/artisan-mini/issues"
+    "url": "https://github.com/medhulk8/Artisan-mini/issues"
   },
   "scripts": {
     "dev": "vite",

@@ -41,7 +41,7 @@ Artisan Mini is a beautiful, modern web application that leverages AI to provide
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/synthborne/artisan-mini.git
+   git clone https://github.com/medhulk8/Artisan-mini.git
    cd artisan-mini
    ```
 
@@ -242,8 +242,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you encounter any issues or have questions:
 
-- **Issues**: [GitHub Issues](https://github.com/synthborne/artisan-mini/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/synthborne/artisan-mini/discussions)
+- **Issues**: [GitHub Issues](https://github.com/medhulk8/Artisan-mini/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/medhulk8/Artisan-mini/discussions)
 
 ---
 
@@ -251,6 +251,6 @@ If you encounter any issues or have questions:
 
   **Made with ❤️ for artisans and craftspeople worldwide**
 
-  [Live Demo](https://artisan-mini.vercel.app/) • [Report Bug](https://github.com/synthborne/artisan-mini/issues) • [Request Feature](https://github.com/synthborne/artisan-mini/issues)
+  [Live Demo](https://artisan-mini.vercel.app/) • [Report Bug](https://github.com/medhulk8/Artisan-mini/issues) • [Request Feature](https://github.com/medhulk8/Artisan-mini/issues)
 
 </div>
