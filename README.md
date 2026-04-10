@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  **🌐 [Live Demo](https://artisan-mini.vercel.app/)**
+  **🌐 [Live Demo](https://artisan-psi-wheat.vercel.app/)**
 
   *Empowering artisans with AI-driven marketing strategies*
 
@@ -253,6 +253,6 @@ If you encounter any issues or have questions:
 
   **Made with ❤️ for artisans and craftspeople worldwide**
 
-  [Live Demo](https://artisan-mini.vercel.app/) • [Report Bug](https://github.com/medhulk8/Artisan-mini/issues) • [Request Feature](https://github.com/medhulk8/Artisan-mini/issues)
+  [Live Demo](https://artisan-psi-wheat.vercel.app/) • [Report Bug](https://github.com/medhulk8/Artisan-mini/issues) • [Request Feature](https://github.com/medhulk8/Artisan-mini/issues)
 
 </div>
